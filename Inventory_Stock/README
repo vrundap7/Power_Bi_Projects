@@ -1,0 +1,22 @@
+🏪 Inventory Stock Dashboard
+
+
+💼 What is this project?
+
+This dashboard tracks stock levels, inventory value, and product categories.
+
+🎯 Purpose:
+
+To help store managers know which products are low in stock or overstocked.
+
+💡 Benefits:
+
+Avoids stockouts and overstocking.
+Helps maintain balanced inventory.
+Gives a clear view of total stock value and category performance.
+
+📈 Key Insights:
+
+Total Stock Value 💰
+Product Quantity by Category 📦
+Reorder Alert for Low Stock ⚠️
