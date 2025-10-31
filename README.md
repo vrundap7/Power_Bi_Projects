@@ -1,1 +1,24 @@
-# Power_Bi_Projects
+📊 Global Freelancer Dashboard
+
+
+💼 What is this project?
+
+This dashboard shows data about freelancers from different countries, their skills, and activity levels.
+
+🎯 Purpose:
+
+To understand how many freelancers are active, what categories are most popular, and which countries have the highest freelancers.
+
+💡 Benefits:
+
+Helps businesses find talent globally.
+Shows active vs total freelancers to identify engagement.
+Shows top countries and categories with most freelancers.
+
+📈 Key Insights:
+
+Active Freelancers 📍
+
+Country-wise Distribution 🌍
+
+Skill Category Performance 🧠
