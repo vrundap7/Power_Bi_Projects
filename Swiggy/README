@@ -1,0 +1,31 @@
+🧩 Swiggy Sales Dashboard
+
+
+💼 What is this project?
+
+This dashboard analyzes Swiggy food delivery sales data, including orders, revenue, ratings, and restaurant performance.
+
+🎯 Purpose:
+
+To understand sales trends, top restaurants, and customer preferences.
+
+💡 Benefits:
+
+Identify top-selling restaurants & cuisines.
+Helps Swiggy improve customer satisfaction.
+Tracks monthly or daily order trends for better planning.
+
+📈 Key Insights:
+
+Total Orders 🛒
+Revenue by Restaurant 💵
+Top Rated Restaurants ⭐
+Most Ordered Cuisine 🍕
+
+⚙️ Tools Used
+
+🧠 Power BI Desktop – for dashboard creation
+
+📊 Excel / CSV – for data cleaning and preparation
+
+🧮 DAX & Power Query – for calculations and data transformation
