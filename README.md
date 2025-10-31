@@ -1,24 +1,50 @@
-📊 Global Freelancer Dashboard
+**🌟 Power BI Projects**
+
+This repository contains 3 Power BI dashboards that show real-world business insights in a simple and visual way.
 
 
-💼 What is this project?
+**🌍 Global Freelancer Dashboard**
 
-This dashboard shows data about freelancers from different countries, their skills, and activity levels.
+📌 Analyzes data of freelancers from different countries and skill categories.
 
-🎯 Purpose:
+💡 Helps understand:
 
-To understand how many freelancers are active, what categories are most popular, and which countries have the highest freelancers.
+Total and active freelancers
+Top countries with most freelancers
+Skill-wise performance and earnings
 
-💡 Benefits:
+🎯 Benefit : 
 
-Helps businesses find talent globally.
-Shows active vs total freelancers to identify engagement.
-Shows top countries and categories with most freelancers.
+Businesses can easily find top talent across the world.
 
-📈 Key Insights:
 
-Active Freelancers 📍
+**🏪 Inventory Stock Dashboard**
 
-Country-wise Distribution 🌍
+📦 Tracks product stock, category, and warehouse performance.
 
-Skill Category Performance 🧠
+💡 Helps monitor:
+
+Available vs low stock
+Total stock value
+Category-wise quantity
+
+🎯 Benefit :
+
+Avoids overstocking and shortages, helping plan inventory better.
+
+
+**🍔 Swiggy Sales Dashboard**
+📊 Shows Swiggy’s sales, ratings, and restaurant performance.
+
+💡 Helps explore:
+
+Total orders and revenue
+Top restaurants and cuisines
+Customer rating patterns
+
+🎯 Benefit :
+Improves sales strategy and customer satisfaction.
+
+⚙️ Tools Used
+
+🧠 Power BI • 📊 Excel • 🧮 DAX • ⚙️ Power Query
