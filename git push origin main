@@ -1,0 +1,154 @@
+[33mcommit 10a41e6c29715589a1bd8455920bcaa486ca886c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: vrunda <vrundaptl07@gmail.com>
+Date:   Sun Mar 22 15:11:04 2026 +0530
+
+    Added README file
+
+[33mcommit c06e2f5197108f311efd5a69c7520d9187aba60d[m
+Author: vrunda <vrundaptl07@gmail.com>
+Date:   Sun Mar 22 15:03:50 2026 +0530
+
+    Added project demo video
+
+[33mcommit 52a96d58d2430a59423fb084dacacc14b98804c2[m
+Author: vrunda <vrundaptl07@gmail.com>
+Date:   Tue Mar 17 11:07:18 2026 +0530
+
+    Re-added Global Freelancer project
+
+[33mcommit 179ec77c2305ff1e9e4755049e06c2ad20361393[m
+Author: vrunda <vrundaptl07@gmail.com>
+Date:   Tue Mar 17 11:01:01 2026 +0530
+
+    Restored Global Freelancer project files
+
+[33mcommit 59868c1f20d363d35657bbd0ccded40cb74d28dc[m
+Author: vrunda <vrundaptl07@gmail.com>
+Date:   Tue Mar 17 10:57:14 2026 +0530
+
+    Added healthcare dataset file
+
+[33mcommit bfb6edc314118e0c1118aa01c47d2286b920f738[m
+Author: vrunda <vrundaptl07@gmail.com>
+Date:   Fri Feb 27 20:40:55 2026 +0530
+
+    Removed healthcare dataset file
+
+[33mcommit 0a81382fc783e2292304ed555b4a98f2e65cf7ed[m
+Author: vrunda <vrundaptl07@gmail.com>
+Date:   Fri Feb 27 20:34:40 2026 +0530
+
+    Improved project structure
+
+[33mcommit 9df05f221c7e302ff2362eb9062a0d4a85167098[m
+Author: vrunda <vrundaptl07@gmail.com>
+Date:   Fri Feb 27 20:30:59 2026 +0530
+
+    Removed PBIX file from Bank Churn project
+
+[33mcommit acb5e64ef57931636acd8b9dbdd17a90a102236d[m
+Author: vrunda <vrundaptl07@gmail.com>
+Date:   Fri Feb 27 20:21:24 2026 +0530
+
+    Removed unnecessary PBIX file
+
+[33mcommit a437852f34b88fce2cdfd5581f641fea0e5fa58c[m
+Author: vrunda <vrundaptl07@gmail.com>
+Date:   Fri Feb 27 20:11:47 2026 +0530
+
+    Improved project structure
+
+[33mcommit 6fa5d65c64487ee84213d57691b47d707bbb581a[m
+Author: vrunda <vrundaptl07@gmail.com>
+Date:   Fri Feb 27 20:10:53 2026 +0530
+
+    Added Bank Churn Analysis and Healthcare Analysis projects
+
+[33mcommit fb6de446aa6f364991682c37946e394abe7b591d[m
+Author: Vrunda Patel <vrundaptl07@gmail.com>
+Date:   Fri Feb 27 19:55:04 2026 +0530
+
+    Delete Video.mp4
+
+[33mcommit 371fbdadd99dbd979c521bf67564fb033748513b[m
+Author: Vrunda Patel <vrundaptl07@gmail.com>
+Date:   Fri Feb 27 19:54:49 2026 +0530
+
+    Delete Healthcare dataset.xlsx
+
+[33mcommit c0ab48722f2fbea3c31b493e03d406083b12f0a3[m
+Author: Vrunda Patel <vrundaptl07@gmail.com>
+Date:   Fri Feb 27 19:51:27 2026 +0530
+
+    Added Bank Churn Analysis Project
+
+[33mcommit 18462431cd40be89134e7390a0db64a3c2b2d534[m
+Author: Vrunda Patel <vrundaptl07@gmail.com>
+Date:   Fri Oct 31 11:01:00 2025 +0530
+
+    Revise README for Power BI project overview
+    
+    Updated README to include details about Power BI projects and dashboards, highlighting their purpose and benefits.
+
+[33mcommit d97346089c60ec9113cb481388243483aa4ac4e8[m
+Author: Vrunda Patel <vrundaptl07@gmail.com>
+Date:   Fri Oct 31 10:54:12 2025 +0530
+
+    README with project details and insights
+
+[33mcommit 9bb30abd9352767c52eb616ced8bd5e337b3d94b[m
+Author: Vrunda Patel <vrundaptl07@gmail.com>
+Date:   Fri Oct 31 10:53:37 2025 +0530
+
+    Update project title emoji from puzzle to burger
+
+[33mcommit 770d4aa71ab5f8c376ff33d3f07b8a0e86194739[m
+Author: Vrunda Patel <vrundaptl07@gmail.com>
+Date:   Fri Oct 31 10:52:55 2025 +0530
+
+    Add README for Global Freelancer Dashboard project
+    
+    This README provides an overview of the Global Freelancer Dashboard project, outlining its purpose, benefits, and key insights related to freelancers.
+
+[33mcommit 2a28d445917582b39079c514a678c0f7b986f553[m
+Author: Vrunda Patel <vrundaptl07@gmail.com>
+Date:   Fri Oct 31 10:52:11 2025 +0530
+
+    Add README for Inventory Stock Dashboard
+    
+    This README provides an overview of the Inventory Stock Dashboard, detailing its purpose, benefits, and key insights.
+
+[33mcommit d488c8166995b48e1e49ecb9f9483186fc2ada71[m
+Author: Vrunda Patel <vrundaptl07@gmail.com>
+Date:   Fri Oct 31 10:50:47 2025 +0530
+
+    Add README for Swiggy Sales Dashboard project
+    
+    This README provides an overview of the Swiggy Sales Dashboard project, detailing its purpose, benefits, key insights, and tools used for analysis.
+
+[33mcommit 8727b0359871fa3c719e7c8a093d05b274533f52[m
+Author: Vrunda Patel <vrundaptl07@gmail.com>
+Date:   Fri Oct 31 10:47:39 2025 +0530
+
+    README with project details and insights
+    
+    Added project overview and key insights to README.
+
+[33mcommit ff9f8ed2bd9d76c4ac6798fddc12c025352eab91[m
+Merge: 3c736f0 08007c0
+Author: vrunda <vrundaptl07@gmail.com>
+Date:   Fri Oct 31 10:36:28 2025 +0530
+
+    Merge branch 'main' of https://github.com/vrundap7/Power_Bi_Projects
+
+[33mcommit 3c736f06a8fe6d57f729f9443037061ebb9eb873[m
+Author: vrunda <vrundaptl07@gmail.com>
+Date:   Fri Oct 31 10:32:23 2025 +0530
+
+    Initial commit - Added Global_Freelancer, Inventory_Stock, Swiggy folders
+
+[33mcommit 08007c0179c3d365411756a5089512a591a80954[m
+Author: Vrunda Patel <vrundaptl07@gmail.com>
+Date:   Fri Oct 31 10:10:39 2025 +0530
+
+    Initial commit
